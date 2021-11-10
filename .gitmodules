@@ -2,3 +2,7 @@
 	path = pledra-fielmann-de
 	url = git@gitlab.pledra.com:pledra/fielmann/fielmann-de.git
 	branch = 14.0
+[submodule "pledra-fielmann-addons"]
+	path = pledra-fielmann-addons
+	url = git@gitlab.pledra.com:pledra/fielmann/fielmann-addons.git
+	branch = 14.0
