@@ -10,3 +10,51 @@
 	path = oca-server-auth
 	url = https://github.com/OCA/server-auth.git
 	branch = 14.0
+[submodule "oca-connector"]
+	path = oca-connector
+	url = https://github.com/oca/connector
+	branch = 14.0
+[submodule "oca-queue"]
+	path = oca-queue
+	url = https://github.com/oca/queue
+	branch = 14.0
+[submodule "oca-brand"]
+	path = oca-brand
+	url = https://github.com/oca/brand
+	branch = 14.0
+[submodule "oca-product-attribute"]
+	path = oca-product-attribute
+	url = https://github.com/oca/product-attribute
+	branch = 14.0
+[submodule "oca-social"]
+	path = oca-social
+	url = https://github.com/oca/social
+	branch = 14.0
+[submodule "oca-web"]
+	path = oca-web
+	url = https://github.com/oca/web
+	branch = 14.0
+[submodule "oca-server-tools"]
+	path = oca-server-tools
+	url = https://github.com/oca/server-tools
+	branch = 14.0
+[submodule "pledra-odoo-sh"]
+	path = pledra-odoo-sh
+	url = git@gitlab.pledra.com:pledra/odoo-sh.git
+	branch = 14.0
+[submodule "oca-bank-payment"]
+	path = oca-bank-payment
+	url = https://github.com/oca/bank-payment
+	branch = 14.0
+[submodule "oca-partner-contact"]
+	path = oca-partner-contact
+	url = https://github.com/oca/partner-contact
+	branch = 14.0
+[submodule "oca-purchase-workflow"]
+	path = oca-purchase-workflow
+	url = https://github.com/oca/purchase-workflow
+	branch = 14.0
+[submodule "oca-sale-workflow"]
+	path = oca-sale-workflow
+	url = https://github.com/oca/sale-workflow
+	branch = 14.0
