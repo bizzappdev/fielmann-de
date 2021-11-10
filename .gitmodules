@@ -1,0 +1,4 @@
+[submodule "pledra-fielmann-de"]
+	path = pledra-fielmann-de
+	url = git@gitlab.pledra.com:pledra/fielmann/fielmann-de.git
+	branch = 14.0
