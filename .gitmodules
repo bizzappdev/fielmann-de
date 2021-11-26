@@ -5,7 +5,7 @@
 [submodule "pledra-fielmann-addons"]
 	path = pledra-fielmann-addons
 	url = git@gitlab.pledra.com:pledra/fielmann/fielmann-addons.git
-	branch = 14.0
+	branch = 14.0-T-01962-fix-mig-test-cases-connector-shopify-bizz-HET
 [submodule "oca-server-auth"]
 	path = oca-server-auth
 	url = https://github.com/OCA/server-auth.git
