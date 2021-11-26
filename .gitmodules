@@ -58,3 +58,7 @@
 	path = oca-sale-workflow
 	url = https://github.com/oca/sale-workflow
 	branch = 14.0
+[submodule "pledra-connector-ecommerce"]
+	path = pledra-connector-ecommerce
+	url = https://github.com/pledra/connector-ecommerce.git
+	branch = 14.0-mig-connector_ecommerce
